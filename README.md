@@ -1,4 +1,4 @@
-# surge.conf
+# SSEncrypt
 >Shadowsocks configure for Surge, design for researchers.
 
 ## Useage
